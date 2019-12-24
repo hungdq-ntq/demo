@@ -96,9 +96,9 @@ const generateCompanyNestData = (company, level, maxNumDept) => {
 const generatorUser = department => {
     const userCode = cryptoRandomString({ length: 8 });
     const user = {
-        titleNm: `Title_${userCode}`,
-        name: `Name_${userCode}`,
-        username: `username_${userCode}`,
+        title2Nm: `Title_${userCode}`,
+        userNm: `Name_${userCode}`,
+        logonId: `username_${userCode}`,
         comCd: `${department.comCd}`,
         comNm: `${department.comNm}`,
         deptNm: `${department.deptNm}`,
