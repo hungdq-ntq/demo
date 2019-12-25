@@ -1,0 +1,218 @@
+[
+  {
+      "comCd": "0ac59e8d",
+      "comNm": "Company_Name_0ac59e8d",
+      "deptCdPath": "/0ac59e8d/",
+      "deptNmPath": "//Company_Name_0ac59e8d//"
+  },
+  {
+      "comCd": "49307678",
+      "comNm": "Company_Name_49307678",
+      "deptCdPath": "/49307678/",
+      "deptNmPath": "//Company_Name_49307678//"
+  },
+  {
+      "comCd": "90c1047e",
+      "comNm": "Company_Name_90c1047e",
+      "deptCdPath": "/90c1047e/",
+      "deptNmPath": "//Company_Name_90c1047e//"
+  },
+  {
+      "comCd": "58e17e00",
+      "comNm": "Company_Name_58e17e00",
+      "deptCdPath": "/58e17e00/",
+      "deptNmPath": "//Company_Name_58e17e00//"
+  },
+  {
+      "deptCd": "ce27321b",
+      "deptNm": "Department_Name_ce27321b",
+      "deptENm": "Department_English_Name_ce27321b",
+      "deptCdPath": "/0ac59e8d/ce27321b/",
+      "deptNmPath": "//Company_Name_0ac59e8d//Department_Name_ce27321b//",
+      "comCd": "0ac59e8d",
+      "comNm": "Company Name Company_Name_0ac59e8d",
+      "deptGubun": "e21",
+      "deptGubunNm": "6",
+      "deptGroup": "bc"
+  },
+  {
+      "deptCd": "2ccb7154",
+      "deptNm": "Department_Name_2ccb7154",
+      "deptENm": "Department_English_Name_2ccb7154",
+      "deptCdPath": "/0ac59e8d/ce27321b/2ccb7154/",
+      "deptNmPath": "//Company_Name_0ac59e8d//Department_Name_ce27321b//Department_Name_2ccb7154//",
+      "comCd": "0ac59e8d",
+      "comNm": "Company Name Company_Name_0ac59e8d",
+      "deptGubun": "be1",
+      "deptGubunNm": "e",
+      "deptGroup": "ba"
+  },
+  {
+      "deptCd": "8709e657",
+      "deptNm": "Department_Name_8709e657",
+      "deptENm": "Department_English_Name_8709e657",
+      "deptCdPath": "/0ac59e8d/ce27321b/8709e657/",
+      "deptNmPath": "//Company_Name_0ac59e8d//Department_Name_ce27321b//Department_Name_8709e657//",
+      "comCd": "0ac59e8d",
+      "comNm": "Company Name Company_Name_0ac59e8d",
+      "deptGubun": "57a",
+      "deptGubunNm": "0",
+      "deptGroup": "c2"
+  },
+  {
+      "deptCd": "e4b49f0f",
+      "deptNm": "Department_Name_e4b49f0f",
+      "deptENm": "Department_English_Name_e4b49f0f",
+      "deptCdPath": "/0ac59e8d/ce27321b/2ccb7154/e4b49f0f/",
+      "deptNmPath": "//Company_Name_0ac59e8d//Department_Name_ce27321b//Department_Name_2ccb7154//Department_Name_e4b49f0f//",
+      "comCd": "0ac59e8d",
+      "comNm": "Company Name Company_Name_0ac59e8d",
+      "deptGubun": "03c",
+      "deptGubunNm": "f",
+      "deptGroup": "fd"
+  },
+  {
+      "deptCd": "dc919e5c",
+      "deptNm": "Department_Name_dc919e5c",
+      "deptENm": "Department_English_Name_dc919e5c",
+      "deptCdPath": "/0ac59e8d/ce27321b/2ccb7154/dc919e5c/",
+      "deptNmPath": "//Company_Name_0ac59e8d//Department_Name_ce27321b//Department_Name_2ccb7154//Department_Name_dc919e5c//",
+      "comCd": "0ac59e8d",
+      "comNm": "Company Name Company_Name_0ac59e8d",
+      "deptGubun": "f99",
+      "deptGubunNm": "e",
+      "deptGroup": "c1"
+  },
+  {
+      "deptCd": "12a1caf1",
+      "deptNm": "Department_Name_12a1caf1",
+      "deptENm": "Department_English_Name_12a1caf1",
+      "deptCdPath": "/0ac59e8d/ce27321b/8709e657/12a1caf1/",
+      "deptNmPath": "//Company_Name_0ac59e8d//Department_Name_ce27321b//Department_Name_8709e657//Department_Name_12a1caf1//",
+      "comCd": "0ac59e8d",
+      "comNm": "Company Name Company_Name_0ac59e8d",
+      "deptGubun": "c33",
+      "deptGubunNm": "d",
+      "deptGroup": "ae"
+  },
+  {
+      "deptCd": "017360da",
+      "deptNm": "Department_Name_017360da",
+      "deptENm": "Department_English_Name_017360da",
+      "deptCdPath": "/90c1047e/017360da/",
+      "deptNmPath": "//Company_Name_90c1047e//Department_Name_017360da//",
+      "comCd": "90c1047e",
+      "comNm": "Company Name Company_Name_90c1047e",
+      "deptGubun": "67c",
+      "deptGubunNm": "1",
+      "deptGroup": "71"
+  },
+  {
+      "deptCd": "6e79c13e",
+      "deptNm": "Department_Name_6e79c13e",
+      "deptENm": "Department_English_Name_6e79c13e",
+      "deptCdPath": "/58e17e00/6e79c13e/",
+      "deptNmPath": "//Company_Name_58e17e00//Department_Name_6e79c13e//",
+      "comCd": "58e17e00",
+      "comNm": "Company Name Company_Name_58e17e00",
+      "deptGubun": "639",
+      "deptGubunNm": "f",
+      "deptGroup": "a6"
+  },
+  {
+      "deptCd": "a59b7726",
+      "deptNm": "Department_Name_a59b7726",
+      "deptENm": "Department_English_Name_a59b7726",
+      "deptCdPath": "/58e17e00/a59b7726/",
+      "deptNmPath": "//Company_Name_58e17e00//Department_Name_a59b7726//",
+      "comCd": "58e17e00",
+      "comNm": "Company Name Company_Name_58e17e00",
+      "deptGubun": "12c",
+      "deptGubunNm": "0",
+      "deptGroup": "73"
+  },
+  {
+      "deptCd": "218650c5",
+      "deptNm": "Department_Name_218650c5",
+      "deptENm": "Department_English_Name_218650c5",
+      "deptCdPath": "/58e17e00/6e79c13e/218650c5/",
+      "deptNmPath": "//Company_Name_58e17e00//Department_Name_6e79c13e//Department_Name_218650c5//",
+      "comCd": "58e17e00",
+      "comNm": "Company Name Company_Name_58e17e00",
+      "deptGubun": "b4e",
+      "deptGubunNm": "5",
+      "deptGroup": "00"
+  },
+  {
+      "deptCd": "eb3fc983",
+      "deptNm": "Department_Name_eb3fc983",
+      "deptENm": "Department_English_Name_eb3fc983",
+      "deptCdPath": "/58e17e00/6e79c13e/eb3fc983/",
+      "deptNmPath": "//Company_Name_58e17e00//Department_Name_6e79c13e//Department_Name_eb3fc983//",
+      "comCd": "58e17e00",
+      "comNm": "Company Name Company_Name_58e17e00",
+      "deptGubun": "6ef",
+      "deptGubunNm": "c",
+      "deptGroup": "c5"
+  },
+  {
+      "deptCd": "7d4db8b2",
+      "deptNm": "Department_Name_7d4db8b2",
+      "deptENm": "Department_English_Name_7d4db8b2",
+      "deptCdPath": "/58e17e00/6e79c13e/7d4db8b2/",
+      "deptNmPath": "//Company_Name_58e17e00//Department_Name_6e79c13e//Department_Name_7d4db8b2//",
+      "comCd": "58e17e00",
+      "comNm": "Company Name Company_Name_58e17e00",
+      "deptGubun": "a9b",
+      "deptGubunNm": "b",
+      "deptGroup": "23"
+  },
+  {
+      "deptCd": "20470914",
+      "deptNm": "Department_Name_20470914",
+      "deptENm": "Department_English_Name_20470914",
+      "deptCdPath": "/58e17e00/6e79c13e/218650c5/20470914/",
+      "deptNmPath": "//Company_Name_58e17e00//Department_Name_6e79c13e//Department_Name_218650c5//Department_Name_20470914//",
+      "comCd": "58e17e00",
+      "comNm": "Company Name Company_Name_58e17e00",
+      "deptGubun": "934",
+      "deptGubunNm": "b",
+      "deptGroup": "8c"
+  },
+  {
+      "deptCd": "c046e5bc",
+      "deptNm": "Department_Name_c046e5bc",
+      "deptENm": "Department_English_Name_c046e5bc",
+      "deptCdPath": "/58e17e00/6e79c13e/218650c5/c046e5bc/",
+      "deptNmPath": "//Company_Name_58e17e00//Department_Name_6e79c13e//Department_Name_218650c5//Department_Name_c046e5bc//",
+      "comCd": "58e17e00",
+      "comNm": "Company Name Company_Name_58e17e00",
+      "deptGubun": "bd5",
+      "deptGubunNm": "7",
+      "deptGroup": "fe"
+  },
+  {
+      "deptCd": "5ac4bd07",
+      "deptNm": "Department_Name_5ac4bd07",
+      "deptENm": "Department_English_Name_5ac4bd07",
+      "deptCdPath": "/58e17e00/6e79c13e/218650c5/5ac4bd07/",
+      "deptNmPath": "//Company_Name_58e17e00//Department_Name_6e79c13e//Department_Name_218650c5//Department_Name_5ac4bd07//",
+      "comCd": "58e17e00",
+      "comNm": "Company Name Company_Name_58e17e00",
+      "deptGubun": "875",
+      "deptGubunNm": "c",
+      "deptGroup": "41"
+  },
+  {
+      "deptCd": "b7d099f1",
+      "deptNm": "Department_Name_b7d099f1",
+      "deptENm": "Department_English_Name_b7d099f1",
+      "deptCdPath": "/58e17e00/6e79c13e/7d4db8b2/b7d099f1/",
+      "deptNmPath": "//Company_Name_58e17e00//Department_Name_6e79c13e//Department_Name_7d4db8b2//Department_Name_b7d099f1//",
+      "comCd": "58e17e00",
+      "comNm": "Company Name Company_Name_58e17e00",
+      "deptGubun": "9d3",
+      "deptGubunNm": "0",
+      "deptGroup": "b5"
+  }
+]
